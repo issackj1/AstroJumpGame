@@ -14,7 +14,7 @@
 ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀ ▀▀
 ░░ ░░ ░░ ░░ ░░ ░░ ░░ ░░ ░░ ░░ ░░ ░░ ░░ ░░ ░░ ░░ ░░ ░░ ░░ ░░ ░░ 
 
-COMPILATION INSTRUCTIONS:
+COMPILATION INSTRUCTIONS: 
 1. Go to Group15/AstroJump
 1. Open command prompt in the root of AstroJump folder
 2. Paste the following code
